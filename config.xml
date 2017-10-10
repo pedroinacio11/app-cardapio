@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+  version="1.0.0" id="com.phinacio.cenourapp">
+
+    <name>Só de Cenoura</name>
+    <description>
+        Menu do restaurante só de cenoura.
+    </description>
+
+    <author href="https://phinacio.com"
+      email="contato@phinacio.com">
+      Pedro Henrique | phinacio
+    </author>
+
+</widget>
